@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "type": "Electronics",
+    "price": 99.99,
+    "description": "Noise-cancelling over-ear headphones.",
+    "image": "headphone.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Running Shoes",
+    "type": "Apparel",
+    "price": 59.99,
+    "description": "Lightweight shoes for daily runs.",
+    "image": "running_shoes.png"
+  },
+  {
+    "id": 3,
+    "name": "Coffee Maker",
+    "type": "Home",
+    "price": 79.99,
+    "description": "Programmable drip coffee maker.",
+    "image": "coffee_maker.png"
+  },
+  {
+    "id": 4,
+    "name": "Smartphone",
+    "type": "Electronics",
+    "price": 499.99,
+    "description": "Latest model with high-res camera.",
+    "image": "smartphone.png"
+  },
+  {
+    "id": 5,
+    "name": "Yoga Mat",
+    "type": "Fitness",
+    "price": 29.99,
+    "description": "Non-slip mat for yoga sessions.",
+    "image": "yoga_mat.png"
+  },
+  {
+    "id": 6,
+    "name": "Blender",
+    "type": "Home",
+    "price": 39.99,
+    "description": "High-speed blender for smoothies.",
+    "image": "blender.png"
+  },
+  {
+    "id": 7,
+    "name": "Smart Watch",
+    "type": "Electronics",
+    "price": 199.99,
+    "description": "Fitness tracker with heart rate monitor.",
+    "image": "smart_watch.png"
+  },
+  {
+    "id": 8,
+    "name": "Denim Jacket",
+    "type": "Apparel",
+    "price": 69.99,
+    "description": "Classic blue denim jacket.",
+    "image": "denim_jacket.png"
+  },
+  {
+    "id": 9,
+    "name": "Air Fryer",
+    "type": "Home",
+    "price": 89.99,
+    "description": "Compact air fryer for healthy cooking.",
+    "image": "air_fryer.png"
+  },
+  {
+    "id": 10,
+    "name": "Dumbbell Set",
+    "type": "Fitness",
+    "price": 49.99,
+    "description": "Adjustable dumbbells for home workouts.",
+    "image": "placeholder.png"
+  },
+  {
+    "id": 11,
+    "name": "Wireless Mouse",
+    "type": "Electronics",
+    "price": 29.99,
+    "description": "Ergonomic mouse with long battery life.",
+    "image": "wireless_mouse.png"
+  },
+  {
+    "id": 12,
+    "name": "Graphic T-Shirt",
+    "type": "Apparel",
+    "price": 24.99,
+    "description": "Cotton t-shirt with modern graphic print.",
+    "image": "graphics_tshirt.png"
+  },
+  {
+    "id": 13,
+    "name": "Table Lamp",
+    "type": "Home",
+    "price": 34.99,
+    "description": "Adjustable LED desk lamp.",
+    "image": "table_lamp.png"
+  },
+  {
+    "id": 14,
+    "name": "Resistance Bands",
+    "type": "Fitness",
+    "price": 19.99,
+    "description": "Set of 5 resistance bands for strength training.",
+    "image": "resistance_band.png"
+  },
+  {
+    "id": 15,
+    "name": "Bluetooth Speaker",
+    "type": "Electronics",
+    "price": 59.99,
+    "description": "Portable speaker with deep bass.",
+    "image": "bluetooth_speaker.png"
+  },
+  {
+    "id": 16,
+    "name": "Sports Cap",
+    "type": "Apparel",
+    "price": 14.99,
+    "description": "Breathable cap for outdoor activities.",
+    "image": "sport_cap.png"
+  }
+]

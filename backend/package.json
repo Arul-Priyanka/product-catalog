@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "product catalogue with filters",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "helmet": "^7.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arul-Priyanka/product-catalog.git"
+  },
+  "author": "Priyanka Gania Arul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arul-Priyanka/product-catalog/issues"
+  },
+  "homepage": "https://github.com/Arul-Priyanka/product-catalog#readme"
+}
